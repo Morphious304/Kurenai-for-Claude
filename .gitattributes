@@ -1,0 +1,2 @@
+hyprland.tar.gz filter=lfs diff=lfs merge=lfs -text
+quickshell.tar.gz filter=lfs diff=lfs merge=lfs -text
